@@ -9,10 +9,12 @@
         <module>core</module>
         <module>app</module>
     </modules>
-</project>
-<distributionManagement>
+    <distributionManagement>
   <snapshotRepository>
     <id>snapshots</id>
     <url>http://localhost:8081/nexus/content/repositories/snapshots</url>
   </snapshotRepository>
 </distributionManagement>
+    
+</project>
+
